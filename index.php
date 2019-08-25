@@ -1,2 +1,4 @@
-<?php
-echo phpinfo();
+<?php 
+
+$a = include("functions.php");
+var_dump($a);
